@@ -1,0 +1,5 @@
+exec --no-startup-id code
+exec --no-startup-id rocketchat-desktop
+exec google-chrome --app=https://open.spotify.com --user-data-dir=~/.config/google-chrome/personalProfile
+exec google-chrome --user-data-dir=~/.config/google-chrome/personalProfile
+exec google-chrome --user-data-dir=~/.config/google-chrome/workProfile

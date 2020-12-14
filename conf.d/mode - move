@@ -1,0 +1,14 @@
+mode "move" {
+        bindsym h move workspace to output left
+        bindsym Left move workspace to output left
+        
+        bindsym l move workspace to output right
+        bindsym Right move workspace to output right
+        
+        # back to normal: Enter or Escape or $mod+r
+        bindsym Return mode "default"
+        bindsym Escape mode "default"
+        bindsym $mod+r mode "default"
+}
+
+bindsym $mod+m mode "move"

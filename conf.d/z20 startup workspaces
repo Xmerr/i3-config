@@ -1,0 +1,2 @@
+exec i3-msg $ws2
+exec i3-msg $ws4
