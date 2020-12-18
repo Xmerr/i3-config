@@ -3,3 +3,5 @@ assign [class="Rocket.Chat"] $ws4
 assign [class="Google-chrome" instance=".config/google-chrome/personalProfile"] $ws9
 assign [class="Google-chrome" instance=".config/google-chrome/workProfile"] $ws3
 assign [class="Google-chrome" instance="open.spotify.com"] $ws10
+assign [class="DBeaver"] $ws5
+assign [class="Postman"] $ws6
